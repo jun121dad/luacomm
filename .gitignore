@@ -1,0 +1,24 @@
+# Lua 解释器二进制
+lua.exe
+luac.exe
+lua5*.dll
+wlua*.exe
+
+# 仿真结果
+results/*.csv
+results/*.txt
+
+# 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# 临时文件
+*.tmp
+*.bak
+*.log
